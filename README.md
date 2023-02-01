@@ -27,4 +27,6 @@ A website dedicated to collect unused furniture in usable condition, refurbishin
 ![image](https://user-images.githubusercontent.com/62549740/215922263-bafefa79-8499-4d25-a99a-1d588e498462.png)
 ![image](https://user-images.githubusercontent.com/62549740/215922360-c71e3b0e-8587-447c-87d9-eb6e9f0dba37.png)
 ![image](https://user-images.githubusercontent.com/62549740/215922441-380a1756-745d-47e0-9220-39aed9b4d951.png)
+![image](https://user-images.githubusercontent.com/62549740/215922698-971a4188-c57d-47c9-9aa0-ad904493cc86.png)
+![image](https://user-images.githubusercontent.com/62549740/215922735-99fce649-36fa-49c5-a08c-01badb1b2267.png)
 
